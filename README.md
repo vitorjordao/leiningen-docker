@@ -2,4 +2,14 @@
 
 This is an up-to-date leiningen repository... 
 
-Leiningen: https://leiningen.org/ 
+[Doker hub](https://hub.docker.com/r/vitorjordao/lein)
+
+## Doker Pull Command
+
+`
+docker pull vitorjordao/lein
+`
+
+## Oficial leiningen site
+
+[Leiningen](https://leiningen.org/) 
